@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
